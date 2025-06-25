@@ -129,7 +129,7 @@ groups = [
     {"name": "Mavericks Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/SPARK/WEB_APP/pBLfP4t", "color": "#0de1eb"},
     {"name": "PetroData Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/PETRODATA_WEBAPP/WEB_APP/WUoy8g8", "color": "#0de1eb"},
     {"name": "PetroSolve Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/PETROFRAC/WEB_APP/Hb6yWXF", "color": "#0de1eb"},
-    {"name": "PetroTechnicals Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/PETROTECHNICALS_PROJECT/WEB_APP/9qxhWZU", "color": "#efab00"},
+    {"name": "PetroTechnicals Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/projects/PETROTECHNICALS_PROJECT/dashboards/bEW5FWk_PetroTechnicals_Dashboard/view/DvzR7M8", "color": "#efab00"},
     {"name": "Mr. Wiwir Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/SCALEUPWIWIR/WEB_APP/xURpsRL", "color": "#efab00"},
     {"name": "Young Blood Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/EORSCREENINGFIX/DASHBOARD/3g0FPEQ?pageId=LDhWFY0", "color": "#efab00"},
     {"name": "Young Engineer Team", "url": "https://ai-playground.app.weu-d1.delfi.slb-ds.com/workspaces/SCALE_UP_2025_WEBAPPS/YOUNGENGINEERTEAM/WEB_APP/1IkHKme", "color": "#efab00"}
